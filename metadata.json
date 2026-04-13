@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Comic Studio",
+  "description": "A project-based comic generation tool using Gemini 3 Pro with persistence and ZIP export.",
+  "requestFramePermissions": []
+}
